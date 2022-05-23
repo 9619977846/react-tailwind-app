@@ -333,9 +333,7 @@
   "version" "2.0.1"
 
 "caniuse-lite@^1.0.30001332", "caniuse-lite@^1.0.30001335":
-  "integrity" "sha512-2SodVrFFtvGENGCv0ChVJIDQ0KPaS1cg7/qtfMaICgeMolDdo/Z2OD32F0Aq9yl6F4YFwGPBS5AaPqNYiW4PoA=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001341.tgz"
-  "version" "1.0.30001341"
+  "version" "1.0.30001342"
 
 "chalk@^4.0.0":
   "integrity" "sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA=="
@@ -378,9 +376,7 @@
   "version" "0.0.1"
 
 "core-js-pure@^3.20.2":
-  "integrity" "sha512-8xo9R00iYD7TcV7OrC98GwxiUEAabVWO3dix+uyWjnYrx9fyASLlIX+f/3p5dW5qByaP2bcZ8X/T47s55et/tA=="
-  "resolved" "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.22.5.tgz"
-  "version" "3.22.5"
+  "version" "3.22.6"
 
 "cross-spawn@^7.0.2":
   "integrity" "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="
